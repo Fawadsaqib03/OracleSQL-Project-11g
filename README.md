@@ -73,6 +73,7 @@ This project is suitable for:
 
 ## 📧 Author
 **Fawad Saqib**  
+
 Feel free to connect on GitHub for questions, suggestions, or collaboration.  
 
 ---
